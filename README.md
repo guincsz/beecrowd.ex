@@ -1,2 +1,2 @@
 # beecrowd.ex
-Soluçxercicios do beecrowd
+Soluções exercicios do beecrowd
